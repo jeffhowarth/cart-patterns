@@ -155,8 +155,8 @@ nav:
     - Visual variables: patterns/visual-variables.md  
     - Lettering: patterns/lettering.md  
     - Territory: patterns/territory.md  
-    - Natural edges: patterns/natural-edges.md  
-    - Routes: patterns/routes.md  
+    # - Natural edges: patterns/natural-edges.md  
+    # - Routes: patterns/routes.md  
     - Color: patterns/color.md   
     - Key: patterns/key.md   
   - NARRATIVES: 
