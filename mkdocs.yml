@@ -150,15 +150,13 @@ nav:
     - Compilation: patterns/compilation.md  
     - Arrangement: patterns/arrangement.md    
     - Layering: patterns/layering.md
-    - Geographic framework: patterns/geographic-framework.md   
-    - Scale & detail: patterns/scale-detail.md  
     - Visual variables: patterns/visual-variables.md  
     - Lettering: patterns/lettering.md  
     - Territory: patterns/territory.md  
     # - Natural edges: patterns/natural-edges.md  
     # - Routes: patterns/routes.md  
     - Color: patterns/color.md   
-    - Key: patterns/key.md   
+    - Marginalia: patterns/marginalia.md   
   - NARRATIVES: 
     - Green space: narratives/green-space.md
     - Pioneers: narratives/pioneers.md 
